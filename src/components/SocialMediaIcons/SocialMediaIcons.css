@@ -23,11 +23,11 @@
 }
 
 .main-header .social-media-icon .social-svg {
-    color: rgb(255, 255, 255, 0.8);
+    color: #F7FFE0;
 }
 
 .main-header .social-media-icon .social-svg:hover {
-    color: #bbc7cc;
+    color: #09E85E;
     background: white;
 }
 
